@@ -1,0 +1,1475 @@
+# Copyright (C) 2006-2013  Cisco Systems, Inc
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ASA\n"
+"POT-Creation-Date: 2020-03-23 4:40 CST\n"
+"PO-Revision-Date: 2020-03-23 4:40 CST\n"
+"Last-Translator: Jeffery Jin <jeffery.jin@it-beyond.com>\n"
+"Language-Team: Jeffery jin <jeffery.jin@it-beyond.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Gaki.c:73
+msgid "Clientless access is not available."
+msgstr "无客户端访问不可用。"
+
+#: Gaki.c:68
+msgid "The installer was not able to start the Cisco VPN Client."
+msgstr "安装程序无法启动Cisco VPN Client。"
+
+#: Gaki.c:58
+msgid "Cisco VPN Client Download"
+msgstr "Cisco VPN客户端下载"
+
+#: Sea_serpent.c:46
+msgid "Cisco VPN Client required but not available"
+msgstr "需要Cisco VPN客户端，但不可用"
+
+#: Doppelganger.c:293
+msgid "KBytes Received:"
+msgstr "收到的千字节："
+
+#: Doppelganger.c:292
+msgid "KBytes Sent:"
+msgstr "已发送的千字节数："
+
+#: Doppelganger.c:291
+msgid "Gateway:"
+msgstr "网关："
+
+#: Doppelganger.c:179
+msgid "SSL VPN Relay mismatch, you need to log off Windows first"
+msgstr "SSL VPN中继不匹配，您需要先注销Windows"
+
+#: Doppelganger.c:174
+msgid "failed to start Smart Tunnel"
+msgstr "无法启动智能隧道"
+
+#: Doppelganger.c:172
+msgid "failed to start"
+msgstr "未能启动"
+
+#: Doppelganger.c:99
+msgid "Smart Tunnel has been started"
+msgstr "智能隧道已启动"
+
+#: Doppelganger.c:93
+#: Doppelganger.c:100
+msgid "Note: All your browser traffic will be tunneled as well"
+msgstr "注意：您所有的浏览器流量也会通过隧道传输"
+
+#: Doppelganger.c:92
+#: Doppelganger.c:103
+msgid "Start Smart Tunnel"
+msgstr "启动智能隧道"
+
+#: Doppelganger.c:60
+msgid "Details..."
+msgstr "细节..."
+
+#: Griffin.c:1296
+msgid "New Folder Name:"
+msgstr "新资料夹名称："
+
+#: Griffin.c:1285
+msgid "Loading..."
+msgstr "载入中..."
+
+#: Griffin.c:1275
+#: Griffin.c:1300
+msgid "OK"
+msgstr "OK"
+
+#: Griffin.c:1271
+msgid "Upload File:"
+msgstr "上传文件："
+
+#: Griffin.c:1267
+#: Griffin.c:1292
+#: Daemon.c:171
+msgid "Close"
+msgstr "关闭"
+
+#: Griffin.c:1209
+msgid "Network"
+msgstr "网络"
+
+#: Griffin.c:1196
+msgid "Web Folder"
+msgstr "网络文件夹"
+
+#: Griffin.c:1186
+msgid "Page 1 of 1"
+msgstr "第1页，共1页"
+
+#: Griffin.c:1166
+msgid "Bottom"
+msgstr "底部"
+
+#: Griffin.c:1165
+msgid "Next"
+msgstr "下一个"
+
+#: Griffin.c:1163
+msgid "Previous"
+msgstr "向前"
+
+#: Griffin.c:1162
+msgid "Top"
+msgstr "顶部"
+
+#: Griffin.c:1157
+msgid "Upload"
+msgstr "上载"
+
+#: Griffin.c:1153
+msgid "New Folder"
+msgstr "新建文件夹"
+
+#: Griffin.c:1152
+msgid "Paste"
+msgstr "粘贴"
+
+#: Griffin.c:1151
+msgid "Cut"
+msgstr "剪切"
+
+#: Griffin.c:1150
+msgid "Copy"
+msgstr "复制"
+
+#: Griffin.c:1149
+msgid "Delete"
+msgstr "删除"
+
+#: Griffin.c:1146
+msgid "Favorites"
+msgstr "收藏夹"
+
+#: Griffin.c:990
+msgid "Date Modified"
+msgstr "修改日期"
+
+#: Griffin.c:989
+msgid "Type"
+msgstr "类型"
+
+#: Griffin.c:988
+msgid "Size"
+msgstr "尺寸"
+
+#: Griffin.c:987
+msgid "Name"
+msgstr "名称"
+
+#: Griffin.c:913
+msgid "Failed to rename the file %1$s"
+msgstr "重命名文件%1$s失败"
+
+#: Griffin.c:905
+msgid "%1$s already exists"
+msgstr "%1$s已经存在"
+
+#: Griffin.c:885
+msgid "Failed to determine current path"
+msgstr "无法确定当前路径"
+
+#: Griffin.c:855
+msgid "Overwrite existing file?"
+msgstr "覆盖现有文件？"
+
+#: Griffin.c:704
+msgid "Open Web Folder"
+msgstr "打开网页文件夹"
+
+#: Griffin.c:689
+msgid "File Folder"
+msgstr "文件夹"
+
+#: Griffin.c:687
+msgid "Share"
+msgstr "分享"
+
+#: Griffin.c:685
+msgid "File"
+msgstr "文件"
+
+#: Griffin.c:680
+#: Griffin.c:823
+msgid "Rename"
+msgstr "改名"
+
+#: Griffin.c:582
+msgid "Page %1$d of %2$d"
+msgstr "第%1$d页，共%2$d页"
+
+#: Griffin.c:519
+msgid "Failed to create folder %1$s"
+msgstr "无法创建文件夹%1$s"
+
+#: Griffin.c:513
+msgid "Folder %1$s already exists"
+msgstr "文件夹%1$s已存在"
+
+#: Griffin.c:507
+msgid "Folder creation not supported for the current view"
+msgstr "当前视图不支持创建文件夹"
+
+#: Griffin.c:483
+msgid "Overwrite existing files?"
+msgstr "覆盖现有文件？"
+
+#: Griffin.c:477
+msgid "Error determining path"
+msgstr "确定路径时出错"
+
+#: Griffin.c:467
+msgid "%1$s file(s) added to clipboard"
+msgstr "%1$s个文件已添加到剪贴板"
+
+#: Griffin.c:384
+msgid "Giving up: Cannot create an XMLHTTP instance"
+msgstr "放弃：无法创建XMLHTTP实例"
+
+#: Griffin.c:359
+#: Poltergeist.c:148
+msgid "Authentication error."
+msgstr "授权错误。"
+
+#: Griffin.c:357
+#: Hellhound.c:86
+#: Yama-uba.c:221
+msgid "Access denied"
+msgstr "拒绝访问"
+
+#: Griffin.c:355
+#: Hellhound.c:86
+#: Yama-uba.c:221
+msgid "Cannot find server or DNS Error"
+msgstr "找不到服务器或DNS错误"
+
+#: Griffin.c:353
+msgid "Error contacting host."
+msgstr "联系主机时出错。"
+
+#: Griffin.c:268
+#: Griffin.c:285
+msgid "Giving up :( Cannot create an XMLHTTP instance"
+msgstr "放弃:(无法创建XMLHTTP实例"
+
+#: Griffin.c:257
+#: Griffin.c:365
+msgid "There was a problem with the request."
+msgstr "这个要求有个问题。"
+
+#: Griffin.c:253
+msgid "Failed to retrieve %1$s"
+msgstr "无法检索%1$s"
+
+#: Griffin.c:40
+#: Griffin.c:1145
+msgid "Level Up"
+msgstr "升级"
+
+#: Hippogriff.c:85
+msgid "Back"
+msgstr "回退"
+
+#: Hippogriff.c:76
+msgid "Internal server error."
+msgstr "内部服务器错误。"
+
+#: Hippogriff.c:74
+msgid "HTTP(S) proxy server unavailable."
+msgstr "HTTP（S）代理服务器不可用。"
+
+#: Hippogriff.c:72
+msgid "Server &nbsp;&nbsp;<b>%s</b>&nbsp;&nbsp; unavailable."
+msgstr "服务器＆nbsp;＆ltb;%s </ b>＆nbsp;＆nbsp;不可用。"
+
+#: Hippogriff.c:68
+#: Hippogriff.c:70
+msgid "Access to this resource has been denied."
+msgstr "对此资源的访问已被拒绝。"
+
+#: Hippogriff.c:64
+msgid "Can not find server&nbsp;&nbsp;<b>%s</b>&nbsp;&nbsp; or DNS error"
+msgstr "找不到服务器<b>%s </ b>＆nbsp;或DNS错误"
+
+#: Hippogriff.c:57
+msgid "Connection failed"
+msgstr "连接失败"
+
+#: Roc.c:289
+msgid "Error: Token Invalid<br>Close browser window and reconnect to the SSL VPN gateway."
+msgstr "错误：令牌无效<br>关闭浏览器窗口，然后重新连接到SSL VPN网关。"
+
+#: Roc.c:287
+msgid "Can not login.<br>Probably you are already connected to a SSL VPN. If you have been using clientless SSL VPN and have closed all the browsers, you need to close Cisco Secure Desktop and restart the login process.<br>Please close this browser window."
+msgstr "无法登录。<br>可能您已经连接到SSL VPN。如果您一直在使用无客户端SSL VPN并关闭了所有浏览器，则需要关闭Cisco Secure Desktop并重新启动登录过程。<br>请关闭此浏览器窗口。"
+
+#: Roc.c:266
+msgid "Processing, please wait..."
+msgstr "处理中，请稍候..."
+
+#: Talos.c:19
+msgid "Failed to install Cisco Secure Desktop."
+msgstr "无法安装Cisco Secure Desktop。"
+
+#: Talos.c:17
+#: Fenrir.c:1150
+msgid "This computer does not match the location settings. You can not continue. Contact your IT administrator for more information."
+msgstr "该计算机与位置设置不匹配。您无法继续。请与您的IT管理员联系以获取更多信息。"
+
+#: Fenrir.c:268
+#: Fenrir.c:959
+#: Avengers.c:232
+msgid "Passcode"
+msgstr "密码"
+
+#: Fenrir.c:273
+msgid "Response"
+msgstr "响应"
+
+#: Fenrir.c:277
+msgid "Login"
+msgstr "登录"
+
+#: Fenrir.c:306
+msgid "More information is required to log in."
+msgstr "需要更多信息才能登录。"
+
+#: Fenrir.c:310
+#: Fenrir.c:469
+#: Fenrir.c:531
+#: Fenrir.c:591
+#: Kitsune.c:120
+#: Chupacabra.c:127
+msgid "Continue"
+msgstr "继续"
+
+#: Fenrir.c:310
+#: Fenrir.c:469
+#: Fenrir.c:531
+#: Fenrir.c:591
+#: Kitsune.c:121
+#: Griffin.c:823
+#: Gwyllion.c:93
+#: Chupacabra.c:126
+#: Ouroboros.c:120
+msgid "Cancel"
+msgstr "取消"
+
+#: Fenrir.c:354
+#: Fenrir.c:390
+msgid "New Password"
+msgstr "新密码"
+
+#: Fenrir.c:355
+#: Fenrir.c:391
+msgid "Verify Password"
+msgstr "验证密码"
+
+#: Fenrir.c:360
+msgid "New Password Required"
+msgstr "需要新密码"
+
+#: Fenrir.c:425
+msgid "New PIN"
+msgstr "新密码"
+
+#: Fenrir.c:426
+msgid "Verify PIN"
+msgstr "验证PIN码"
+
+#: Fenrir.c:431
+#: Fenrir.c:511
+msgid "New PIN Required"
+msgstr "需要新的PIN码"
+
+#: Fenrir.c:498
+#: Fenrir.c:560
+msgid "Have the system generate a new PIN"
+msgstr "让系统生成新的PIN"
+
+#: Fenrir.c:499
+#: Fenrir.c:561
+msgid "Create your own new PIN"
+msgstr "创建自己的新PIN"
+
+#: Fenrir.c:573
+msgid "System Generated PIN"
+msgstr "系统生成的PIN"
+
+#: Fenrir.c:588
+msgid "Please remember your new PIN."
+msgstr "请记住您的新PIN码。"
+
+#: Fenrir.c:616
+msgid "Secure Desktop"
+msgstr "安全桌面"
+
+#: Fenrir.c:813
+#: Fenrir.c:880
+msgid "New PIN needs to be entered."
+msgstr "需要输入新的PIN码。"
+
+#: Fenrir.c:818
+msgid "You need to enter identical PINs twice for verification."
+msgstr "您需要输入两次相同的PIN进行验证。"
+
+#: Fenrir.c:842
+msgid "New Password needs to be entered."
+msgstr "需要输入新密码。"
+
+#: Fenrir.c:847
+msgid "Verify Password needs to be entered."
+msgstr "确认需要输入密码。"
+
+#: Fenrir.c:852
+msgid "New Password and Verify Password do not match."
+msgstr "新密码和验证密码不匹配。"
+
+#: Fenrir.c:858
+msgid "Minimum Password length must be %d."
+msgstr "最小密码长度必须为%d。"
+
+#: Fenrir.c:885
+msgid "Verify PIN needs to be entered."
+msgstr "确认需要输入PIN。"
+
+#: Fenrir.c:890
+#: Mummy.c:5691 Mummy.c:5724
+msgid "New PIN and Verify PIN do not match."
+msgstr "新PIN码和验证PIN码不匹配。"
+
+#: Fenrir.c:906
+msgid "PIN length must be from %1$d through %2$d"
+msgstr "PIN码长度必须在%1$d到%2$d之间"
+
+#: Fenrir.c:919
+msgid "Invalid numeric PIN."
+msgstr "无效的数字PIN。"
+
+#: Fenrir.c:925
+msgid "Invalid alphanumeric PIN."
+msgstr "无效的字母数字PIN。"
+
+#: Fenrir.c:958
+#: Avengers.c:231
+msgid "Password"
+msgstr "密码"
+
+#: Fenrir.c:960
+#: Avengers.c:233
+msgid "2nd Password"
+msgstr "第二密码"
+
+#: Fenrir.c:961
+#: Avengers.c:234
+msgid "2nd Passcode"
+msgstr "第二次密码"
+
+#: Fenrir.c:992
+#: Mummy.c:5786
+msgid "Your certificate is invalid for the selected group"
+msgstr "您的证书对所选组无效"
+
+#: Fenrir.c:1149
+msgid "The installer has succeeded. You can close this page."
+msgstr "安装程序已成功。您可以关闭此页面。"
+
+#: Fenrir.c:1151
+msgid "Connection timeout."
+msgstr "连接超时。"
+
+#: Fenrir.c:1152
+msgid "Java installer error."
+msgstr "Java安装程序错误。"
+
+#: Fenrir.c:1153
+#: Mummy.c:5686
+msgid "Unknown error."
+msgstr "未知错误。"
+
+#: Fenrir.c:1154
+msgid "Cache Cleaner is already running."
+msgstr "缓存清理器已在运行。"
+
+#: Fenrir.c:1155
+msgid "Secure Desktop is already running."
+msgstr "安全桌面已在运行。"
+
+#: Fenrir.c:1156
+msgid "Keystroke logger was detected. You can not continue."
+msgstr "检测到按键记录器。您无法继续。"
+
+#: Fenrir.c:1157
+msgid "Java failed to start or not installed on this computer. <br>Please select one of the following options: <ul><li><a href='/+CSCOE+/logout.html?reason=12'>Login, some resources may be unavailable</a></li><li><a href='/+CSCOE+/logout.html?reason=20'>Install client components manually</a></li></ul>"
+msgstr "Java无法启动或未在此计算机上安装。 <br>请选择以下选项之一：<ul> <li> <a href='/+CSCOE+/logout.html?reason=12'>登录，某些资源可能不可用</a> </ li> <li> <a href='/+CSCOE+/logout.html?reason=20'>手动安装客户端组件</a> </ li> </ ul>"
+
+#: Fenrir.c:1158
+msgid "Computer in an emulator. You can not continue."
+msgstr "仿真器中的计算机。您无法继续。"
+
+#: Fenrir.c:1159
+msgid "You can close this page after installation."
+msgstr "您可以在安装后关闭此页面。"
+
+#: Bahamut.c:8
+msgid "Wrong URL."
+msgstr "网址错误。"
+
+#: Bahamut.c:9
+msgid "Windows mobile operating system is not supported."
+msgstr "不支持Windows移动操作系统。"
+
+#: Kitsune.c:28
+msgid "Proxy Authentication Required"
+msgstr "需要代理身份验证"
+
+#: Kitsune.c:30
+msgid "Web Server Authentication Required"
+msgstr "需要Web服务器身份验证"
+
+#: Kitsune.c:97
+msgid "Enter your username and password for %1$s at %2$s:%3$s"
+msgstr "在%2$s：%3$s输入%1$s的用户名和密码"
+
+#: Kitsune.c:100
+msgid "Enter your username and password"
+msgstr "输入你的用户名与密码"
+
+#: Kitsune.c:108
+#: Gwyllion.c:91
+msgid "Username:"
+msgstr "用户名："
+
+#: Kitsune.c:112
+#: Gwyllion.c:92
+msgid "Password:"
+msgstr "密码："
+
+#: Amphisbaena.c:39
+msgid "Enter URL/Web Address"
+msgstr "输入网址/网址"
+
+#: Amphisbaena.c:54
+msgid "Wrong URL!"
+msgstr "网址错误！"
+
+#: Amphisbaena.c:69
+msgid "Are you sure you want to close your session?"
+msgstr "您确定要关闭会话吗？"
+
+#: Amphisbaena.c:84
+msgid "Move to other side"
+msgstr "移到另一边"
+
+#: Amphisbaena.c:86
+#: Amphisbaena.c:93
+msgid "Home page"
+msgstr "主页"
+
+#: Amphisbaena.c:87
+#: Amphisbaena.c:94
+#: Pixie.c:122
+#: Pixie.c:126
+#: Gaki.c:73
+#: Daemon.c:175
+#: Daemon.c:180
+msgid "Logout"
+msgstr "登出"
+
+#: Amphisbaena.c:92
+msgid "Go to address"
+msgstr "前往地址"
+
+#: Domowije.c:166
+msgid "Failed to upload file"
+msgstr "上传文件失败"
+
+#: Gwyllion.c:87
+msgid "Authentication required"
+msgstr "需要验证"
+
+#: Gwyllion.c:93
+msgid "Submit"
+msgstr "提交"
+
+#: Poltergeist.c:123
+msgid "Failed to open web folder, the URL may be too long"
+msgstr "无法打开Web文件夹，URL可能太长"
+
+#: Poltergeist.c:125
+msgid "Failed to open web folder"
+msgstr "无法打开网页文件夹"
+
+#: Baba_Yaga.c:22
+#: Avengers.c:52
+#: Pixie.c:103
+msgid "Logo"
+msgstr "商标"
+
+#: Avengers.c:36
+msgid "More Info"
+msgstr "更多信息"
+
+#: Avengers.c:219
+msgid "Click <a href=\/+CSCOCA+/login.html\">here</a> to obtain a new certificate.""
+msgstr "单击<a href=\/+CSCOCA+/login.html\">此处</a>以获取新证书。”"
+
+#: Avengers.c:228
+#: Avengers.c:237
+msgid "Logon"
+msgstr "登入"
+
+#: Avengers.c:229
+msgid "Username"
+msgstr "用户名"
+
+#: Avengers.c:230
+msgid "2nd Username"
+msgstr "第二个用户名"
+
+#: Avengers.c:235
+msgid "Internal Password"
+msgstr "内部密码"
+
+#: Avengers.c:236
+msgid "Group"
+msgstr "组"
+
+#: Avengers.c:276
+msgid "Your client certificate will be used for authentication"
+msgstr "您的客户证书将用于身份验证"
+
+#: Avengers.c:617
+#: Hellhound.c:369
+msgid "Contract"
+msgstr "合同"
+
+#: Avengers.c:617
+#: Hellhound.c:365
+msgid "Expand"
+msgstr "扩大"
+
+#: Avengers.c:756
+msgid "Session expired."
+msgstr "会话已过期。"
+
+#: Avengers.c:762
+msgid ""
+"You have been logged out.<br><br>\n"
+"            For improved security, please:<br>\n"
+"               <li>Clear the browser's cache\n"
+"               <li>Delete any downloaded files\n"
+"               <li>Close the browser's window"
+msgstr ""
+"您已注销。<br><br>\n"
+"            为了提高安全性，请：<br>\n"
+"               <li>清除浏览器的缓存\n"
+"               <li>删除所有下载的文件\n"
+"               <li>关闭浏览器窗口"
+
+#: Avengers.c:941
+#: Chupacabra.c:1047
+msgid "Your system administrator provided the following information to help understand and remedy the security conditions:"
+msgstr "您的系统管理员提供了以下信息，以帮助您了解和纠正安全状况："
+
+#: Nymph.c:524
+msgid "Home"
+msgstr "首页"
+
+#: Nymph.c:530
+msgid "Web Access"
+msgstr "网络访问"
+
+#: Nymph.c:534
+msgid "Web Bookmarks"
+msgstr "网络书签"
+
+#: Nymph.c:539
+msgid "File Access"
+msgstr "文件访问"
+
+#: Nymph.c:544
+#: Nymph.c:551
+msgid "File Bookmarks"
+msgstr "文件书签"
+
+#: Nymph.c:549
+msgid "Application Access"
+msgstr "应用程序访问"
+
+#: Nymph.c:556
+msgid "AnyConnect"
+msgstr "AnyConnect"
+
+#: Nymph.c:565
+msgid "Terminal Servers"
+msgstr "终端服务器"
+
+#: Chupacabra.c:629
+msgid "File URL entry is not allowed."
+msgstr "不允许输入文件URL。"
+
+#: Chupacabra.c:745
+msgid "HTTP URL entry is not allowed."
+msgstr "不允许输入HTTP URL。"
+
+#: Chupacabra.c:979
+msgid "Hide/Show Title Panel"
+msgstr "隐藏/显示标题面板"
+
+#: Chupacabra.c:1007
+msgid "Hide/Show Navigation Panel"
+msgstr "隐藏/显示导航面板"
+
+#: Chupacabra.c:1035
+msgid "Collapse Navigation Pane"
+msgstr "折叠导航窗格"
+
+#: Chupacabra.c:1047
+msgid "Security policies were applied to your session, access to some resources may be blocked."
+msgstr "安全策略已应用于您的会话，可能无法访问某些资源。"
+
+#: Hellhound.c:82
+#: Yama-uba.c:211
+msgid "Open in a new window"
+msgstr "在新视窗开启"
+
+#: Ouroboros.c:84
+msgid "AnyConnect will start in <span id=timeleft>%s</span> seconds."
+msgstr "AnyConnect将在<span id = timeleft>%s </ span>秒内启动。"
+
+#: Ouroboros.c:118
+msgid "Start now"
+msgstr "现在开始"
+
+#: Ethon.c:6
+#: Ethon.c:9
+msgid "Access Denied"
+msgstr "拒绝访问"
+
+#: Daemon.c:48
+msgid "User Alert"
+msgstr "用户警报"
+
+#: Daemon.c:158
+msgid "Your session will reach the maximum connection time in %s and will be terminated. You will need to log in again."
+msgstr "您的会话将达到最大连接时间（以%s为单位），并将被终止。您将需要再次登录。"
+
+#: Daemon.c:161
+msgid "Your session will expire in %s due to inactivity."
+msgstr "由于没有活动，您的会话将在%s后过期。"
+
+#: Daemon.c:179
+msgid "Continue Session"
+msgstr "继续会话"
+
+#: Yama-uba.c:329
+msgid "Connection Established"
+msgstr "连接已建立"
+
+#: Yama-uba.c:340
+msgid ""
+"The Cisco AnyConnect VPN Client has successfully connected.<br>\n"
+"                 The connection can be controlled from the tray icon, circled in the image below:"
+msgstr ""
+"Cisco AnyConnect VPN客户端已成功连接。<br>\n"
+"                 可以通过托盘图标控制连接，如下图所示："
+
+#: Mummy.c:5688
+msgid "Cannot find system PIN!"
+msgstr "找不到系统PIN！"
+
+#: Mummy.c:5689 Mummy.c:5722
+msgid "New PIN not entered."
+msgstr "未输入新的PIN码。"
+
+#: Mummy.c:5690 Mummy.c:5723
+msgid "Verify PIN not entered."
+msgstr "确认未输入PIN。"
+
+#: Mummy.c:5692
+msgid "No state for new PIN required."
+msgstr "不需要新PIN的状态。"
+
+#: Mummy.c:5693
+msgid "Cookies must be enabled to log in."
+msgstr "必须启用Cookies才能登录。"
+
+#: Mummy.c:5694
+#, c-format
+msgid "Login denied.  %s"
+msgstr "登录被拒绝。 %s"
+
+#: Mummy.c:5695
+msgid "Unable to perform DNS resolution."
+msgstr "无法执行DNS解析。"
+
+#: Mummy.c:5697
+msgid "Unable to create session directory."
+msgstr "无法创建会话目录。"
+
+#: Mummy.c:5698
+msgid "User not authorized for AnyConnect Client access, contact your administrator."
+msgstr "无权访问AnyConnect客户端的用户，请与管理员联系。"
+
+#: Mummy.c:5699
+msgid "Unable to complete connection: Cisco Secure Desktop not installed on the client"
+msgstr "无法完成连接：客户端上未安装Cisco Secure Desktop"
+
+#: Mummy.c:5700
+msgid "Unable to update the session management database."
+msgstr "无法更新会话管理数据库。"
+
+#: Mummy.c:5701
+msgid "Login failed."
+msgstr "登录失败。"
+
+#: Mummy.c:5702
+msgid "Login error."
+msgstr "登录错误。"
+
+#: Mummy.c:5703
+msgid "Unknown login status."
+msgstr "未知的登录状态。"
+
+#: Mummy.c:5704
+msgid "Unable to send authentication message."
+msgstr "无法发送身份验证消息。"
+
+#: Mummy.c:5705
+msgid "Unable to send authorization message."
+msgstr "无法发送授权消息。"
+
+#: Mummy.c:5706
+msgid "Server reboot pending, new logins disabled. Try again later."
+msgstr "服务器等待重启，新的登录被禁用。稍后再试。"
+
+#: Mummy.c:5708
+msgid "Login attempted outside authorized hours."
+msgstr "在授权时间以外尝试登录。"
+
+#: Mummy.c:5709
+msgid "Your account is disabled."
+msgstr "您的帐户已被禁用。"
+
+#: Mummy.c:5710
+msgid "You have no dial-in permission."
+msgstr "您没有拨入权限。"
+
+#: Mummy.c:5711
+msgid "Authentication failed."
+msgstr "验证失败。"
+
+#: Mummy.c:5712
+msgid "Cannot complete password change because the password does not meet the password policy requirements.  Check the minimum password length, password complexity, and password history requirements."
+msgstr "由于密码不符合密码策略要求，因此无法完成密码更改。检查最小密码长度，密码复杂性和密码历史记录要求。"
+
+#: Mummy.c:5713
+msgid "Password expired."
+msgstr "密码已过期。"
+
+#: Mummy.c:5714
+msgid "Password expiring."
+msgstr "密码即将过期。"
+
+#: Mummy.c:5715
+msgid "Password change required."
+msgstr "需要更改密码。"
+
+#: Mummy.c:5716
+msgid "New Password Required but user not allowed to change."
+msgstr "需要新密码，但不允许用户更改。"
+
+#: Mummy.c:5717
+msgid "Password change required, but password management not enabled."
+msgstr "需要更改密码，但未启用密码管理。"
+
+#: Mummy.c:5719
+msgid "Account expired."
+msgstr "帐户已过期。"
+
+#: Mummy.c:5720
+msgid "Unknown challenge."
+msgstr "未知的挑战。"
+
+#: Mummy.c:5721
+msgid "PIN type not selected."
+msgstr "未选择PIN类型。"
+
+#: Mummy.c:5725
+msgid "New PIN way too big."
+msgstr "新PIN码太大。"
+
+#: Mummy.c:5726
+#, c-format
+msgid "PIN length must be from %s through %s."
+msgstr "PIN码长度必须在%s到%s之间。"
+
+#: Mummy.c:5727
+msgid "PIN must consist of alphanumeric characters only."
+msgstr "PIN码只能包含字母数字字符。"
+
+#: Mummy.c:5728
+msgid "PIN must consist of numeric digits only."
+msgstr "PIN码只能包含数字。"
+
+#: Mummy.c:5730
+msgid "Unable to generate new PIN."
+msgstr "无法生成新的PIN码。"
+
+#: Mummy.c:5731
+msgid "Missing system generated PIN."
+msgstr "缺少系统生成的PIN。"
+
+#: Mummy.c:5732
+msgid "Session terminated."
+msgstr "会话已终止。"
+
+#: Mummy.c:5733
+msgid "Missing username."
+msgstr "用户名丢失。"
+
+#: Mummy.c:5734
+msgid "New password not entered."
+msgstr "未输入新密码。"
+
+#: Mummy.c:5735
+msgid "Verify password not entered."
+msgstr "确认未输入密码。"
+
+#: Mummy.c:5736
+msgid "New password and Verify password do not match."
+msgstr "新密码和验证密码不匹配。"
+
+#: Mummy.c:5737
+msgid "New password way too big."
+msgstr "新密码的方式太大。"
+
+#: Mummy.c:5738
+msgid "New password not entered, password expiring."
+msgstr "未输入新密码，密码即将到期。"
+
+#: Mummy.c:5739
+msgid "Verify password not entered, password expiring."
+msgstr "验证密码未输入，密码到期。"
+
+#: Mummy.c:5741
+msgid "New password and Verify password do not match, password expiring."
+msgstr "新密码和验证密码不匹配，密码即将过期。"
+
+#: Mummy.c:5742
+msgid "New password way too big, password expiring."
+msgstr "新密码太大，密码即将过期。"
+
+#: Mummy.c:5743
+msgid "Enter new PIN with the next card code to complete authentication."
+msgstr "输入新的PIN码和下一个卡号以完成身份验证。"
+
+#: Mummy.c:5744
+msgid "Enter the next card code to complete authentication."
+msgstr "输入下一个卡代码以完成身份验证。"
+
+#: Mummy.c:5745
+#, c-format
+msgid "You must enter a new alphanumeric PIN from %s to %s characters to continue."
+msgstr "您必须输入%s到%s字符之间的新字母数字PIN才能继续。"
+
+#: Mummy.c:5746
+#, c-format
+msgid "You must enter a new numeric PIN from %s to %s digits to continue."
+msgstr "您必须输入%s到%s位之间的新数字PIN才能继续。"
+
+#: Mummy.c:5747
+msgid "You must enter a new PIN to continue."
+msgstr "您必须输入新的PIN才能继续。"
+
+#: Mummy.c:5748
+#, c-format
+msgid "A new PIN has been generated for you: %s."
+msgstr "为您生成了一个新的PIN：%s。"
+
+#: Mummy.c:5749
+#, c-format
+msgid "Password error, you must enter a new password with minimum length %s to continue."
+msgstr "密码错误，您必须输入最小长度为%s的新密码才能继续。"
+
+#: Mummy.c:5750
+#, c-format
+msgid "Password expired, you must enter a new password with minimum length %s to continue."
+msgstr "密码已过期，您必须输入最小长度为%s的新密码才能继续。"
+
+#: Mummy.c:5752
+#, c-format
+msgid "Password expiring, you must enter a new password with minimum length %s to continue."
+msgstr "密码到期，您必须输入最小长度%s的新密码才能继续。"
+
+#: Mummy.c:5753
+#, c-format
+msgid "Password change required, you must enter a new password with minimum length %s to continue."
+msgstr "需要更改密码，您必须输入最小长度为%s的新密码才能继续。"
+
+#: Mummy.c:5754
+msgid "Password expired, you must enter a new password to continue."
+msgstr "密码已过期，您必须输入新密码才能继续。"
+
+#: Mummy.c:5755
+msgid "Password expiring, you must enter a new password to continue."
+msgstr "密码即将过期，您必须输入新密码才能继续。"
+
+#: Mummy.c:5756
+msgid "Password change required, you must enter a new password to continue."
+msgstr "需要更改密码，您必须输入新密码才能继续。"
+
+#: Mummy.c:5757
+msgid "Password error, you must enter a new password to continue."
+msgstr "密码错误，您必须输入新密码才能继续。"
+
+#: Mummy.c:5758
+#, c-format
+msgid "Password expired in %s day(s), if you wish to change now enter a new password with minimum length %s."
+msgstr "密码已在%s天后过期，如果您想更改，请输入一个最小长度为%s的新密码。"
+
+#: Mummy.c:5759
+#, c-format
+msgid "Password expiring in %s day(s), if you wish to change now enter a new password with minimum length %s."
+msgstr "密码将于%s天后过期，如果您想更改，请输入一个最小长度为%s的新密码。"
+
+#: Mummy.c:5760
+#, c-format
+msgid "Password change required in %s day(s), if you wish to change now enter a new password with minimum length %s."
+msgstr "必须在%s天之内更改密码，如果您想更改，请输入一个最小长度为%s的新密码。"
+
+#: Mummy.c:5761
+#, c-format
+msgid "Password error in %s day(s), if you wish to change now enter a new password with minimum length %s."
+msgstr "如果您希望更改，请以%s天为单位输入密码错误，现在输入最小长度为%s的新密码。"
+
+#: Mummy.c:5763
+#, c-format
+msgid "Password expired, if you wish to change now enter a new password with minimum length %s."
+msgstr "密码已过期，如果要更改，请输入最小长度为%s的新密码。"
+
+#: Mummy.c:5764
+#, c-format
+msgid "Password expiring, if you wish to change now enter a new password with minimum length %s."
+msgstr "密码即将到期，如果您想更改，请输入一个最小长度为%s的新密码。"
+
+#: Mummy.c:5765
+#, c-format
+msgid "Password change required, if you wish to change now enter a new password with minimum length %s."
+msgstr "需要更改密码，如果要更改，请输入最小长度为%s的新密码。"
+
+#: Mummy.c:5766
+#, c-format
+msgid "Password error, if you wish to change now enter a new password with minimum length %s."
+msgstr "密码错误，如果您想更改，请输入最小长度为%s的新密码。"
+
+#: Mummy.c:5767
+#, c-format
+msgid "Password expired in %s day(s), if you wish to change now enter a new password."
+msgstr "密码已在%s天后过期，如果您想更改，请输入新密码。"
+
+#: Mummy.c:5768
+#, c-format
+msgid "Password expiring in %s day(s), if you wish to change now enter a new password."
+msgstr "密码将于%s天后过期，如果您想更改密码，请输入新密码。"
+
+#: Mummy.c:5769
+#, c-format
+msgid "Password change required in %s day(s), if you wish to change now enter a new password."
+msgstr "必须在%s天之内更改密码，如果您希望现在更改，请输入一个新密码。"
+
+#: Mummy.c:5770
+#, c-format
+msgid "Password error in %s day(s), if you wish to change now enter a new password."
+msgstr "如果您想更改密码，请在%s天之内输入新密码。"
+
+#: Mummy.c:5771
+msgid "Password expired, if you wish to change now enter a new password."
+msgstr "密码已过期，如果您想更改，请输入新密码。"
+
+#: Mummy.c:5772
+msgid "Password expiring, if you wish to change now enter a new password."
+msgstr "密码即将过期，如果您想更改，请输入一个新密码。"
+
+#: Mummy.c:5774
+msgid "Password change required, if you wish to change now enter a new password."
+msgstr "需要更改密码，如果要更改，请输入新密码。"
+
+#: Mummy.c:5775
+msgid "Password error, if you wish to change now enter a new password."
+msgstr "密码错误，如果您想更改，请输入新密码。"
+
+#: Mummy.c:5776
+msgid "Login denied, unauthorized connection mechanism, contact your administrator."
+msgstr "登录被拒绝，未授权的连接机制，请与管理员联系。"
+
+#: Mummy.c:5777
+msgid "You must create a new PIN. Select whether you want to create your own PIN or have the system generate one for you."
+msgstr "您必须创建一个新的PIN。选择是要创建自己的PIN还是让系统为您生成一个。"
+
+#: Mummy.c:5778
+msgid "Local CA Authentication Failed"
+msgstr "本地CA身份验证失败"
+
+#: Mummy.c:5779
+msgid "Certificate Validation Failure"
+msgstr "证书验证失败"
+
+#: Mummy.c:5780
+msgid "Leave both boxes blank to continue using current password"
+msgstr "将两个框都留空以继续使用当前密码"
+
+#: Mummy.c:5781
+#, c-format
+msgid "Login failed: %s"
+msgstr "登录失败：%s"
+
+#: Mummy.c:5782
+msgid "AnyConnect is not enabled on the VPN server"
+msgstr "VPN服务器上未启用AnyConnect"
+
+#: Mummy.c:5783
+msgid "Unwilling to perform password change"
+msgstr "不愿意执行密码更改"
+
+#: Mummy.c:5785
+msgid "Invalid host entry. Please re-enter."
+msgstr "无效的主机条目。请重新输入。"
+
+#: Mummy.c:5787
+msgid "Clientless (browser) SSL VPN access is not allowed."
+msgstr "不允许无客户端（浏览器）SSL VPN访问。"
+
+#: Tigger.c:888
+msgid "File"
+msgstr "文件"
+
+#: Tigger.c:889
+msgid "Reset"
+msgstr "重启"
+
+#: Tigger.c:890
+msgid "Exit"
+msgstr "出口"
+
+#: Tigger.c:891
+msgid "Edit"
+msgstr "编辑"
+
+#: Tigger.c:892
+msgid "Cut"
+msgstr "剪切"
+
+#: Tigger.c:893
+msgid "Copy"
+msgstr "复制"
+
+#: Tigger.c:894
+msgid "Paste"
+msgstr "粘贴"
+
+#: Tigger.c:895
+msgid "Rename"
+msgstr "改名"
+
+#: Tigger.c:896
+msgid "Delete"
+msgstr "删除"
+
+#: Tigger.c:897
+msgid "New folder"
+msgstr "新建文件夹"
+
+#: Tigger.c:898
+msgid "Operations"
+msgstr "运作方式"
+
+#: Tigger.c:899
+msgid "Upload"
+msgstr "上载"
+
+#: Tigger.c:900
+msgid "Download"
+msgstr "下载"
+
+#: Tigger.c:901
+msgid "Help"
+msgstr "帮助"
+
+#: Tigger.c:902
+msgid "About"
+msgstr "关于"
+
+#: Tigger.c:903
+msgid "Name"
+msgstr "名称"
+
+#: Tigger.c:904
+msgid "Type"
+msgstr "类型"
+
+#: Tigger.c:905
+msgid "Size"
+msgstr "尺寸"
+
+#: Tigger.c:906
+msgid "Last Modified"
+msgstr "上一次更改"
+
+#: Tigger.c:907
+msgid "Path"
+msgstr "路径"
+
+#: Tigger.c:908
+msgid "Remote Directory"
+msgstr "远端目录"
+
+#: Tigger.c:909
+msgid "Remote File"
+msgstr "远端档案"
+
+#: Tigger.c:910
+msgid "directory"
+msgstr "目录"
+
+#: Tigger.c:911
+msgid "Opening file ..."
+msgstr "正在打开文件..."
+
+#: Tigger.c:912
+msgid ""
+"Obtaining file from remote location failed.\n"
+"Please select File->Refresh or check SSL connection."
+msgstr ""
+"从远程位置获取文件失败。\n"
+"请选择文件->刷新或检查SSL连接。"
+
+#: Tigger.c:913
+msgid "ERROR"
+msgstr "错误"
+
+#: Tigger.c:914
+msgid ""
+"Obtaining file from remote location failed.\n"
+"Updating view..."
+msgstr ""
+"从远程位置获取文件失败。\n"
+"正在更新视图..."
+
+#: Tigger.c:915
+msgid "Cancel"
+msgstr "取消"
+
+#: Tigger.c:916
+msgid "Working ..."
+msgstr "工作中..."
+
+#: Tigger.c:917
+msgid "Dropping file(s) ..."
+msgstr "正在删除文件..."
+
+#: Tigger.c:918
+msgid "Uploading file(s) ..."
+msgstr "正在上传文件..."
+
+#: Tigger.c:919
+msgid "Downloading file(s) ..."
+msgstr "正在下载文件..."
+
+#: Tigger.c:920
+msgid "Pasting file(s) ..."
+msgstr "粘贴文件..."
+
+#: Tigger.c:921
+msgid "Deleting file(s) ... "
+msgstr "删除文件..."
+
+#: Tigger.c:922
+msgid "Temporary directory error."
+msgstr "临时目录错误。"
+
+#: Tigger.c:923
+msgid "OK"
+msgstr "OK"
+
+#: Tigger.c:924
+msgid "Error Message"
+msgstr "错误信息"
+
+#: Tigger.c:925
+msgid "Web Folder"
+msgstr "网络文件夹"
+
+#: Tigger.c:926
+msgid ""
+"Cannot fetch file information.\n"
+"Please check SSL connection."
+msgstr ""
+"无法获取文件信息。\n"
+"请检查SSL连接。"
+
+#: Tigger.c:927
+msgid ""
+"Cannot perform operation.\n"
+"Please select a file/folder from the table to download."
+msgstr ""
+"无法执行操作。\n"
+"请从表格中选择文件/文件夹进行下载。"
+
+#: Tigger.c:928
+msgid ""
+"Cannot perform operation.\n"
+"Please select entries from the table to copy."
+msgstr ""
+"无法执行操作。\n"
+"请从表格中选择要复制的条目。"
+
+#: Tigger.c:929
+msgid "Please select a file/folder from the table to copy/move."
+msgstr "请从表格中选择一个文件/文件夹进行复制/移动。"
+
+#: Tigger.c:930
+msgid "Clipboard error. Cannot perform operation.\n"
+msgstr "剪贴板错误。无法执行操作。\n"
+
+#: Tigger.c:931
+msgid ""
+"Cannot perform operation.\n"
+"Please select a file/folder from the table to delete."
+msgstr ""
+"无法执行操作。\n"
+"请从表格中选择要删除的文件/文件夹。"
+
+#: Tigger.c:932
+msgid "Yes"
+msgstr "是"
+
+#: Tigger.c:933
+msgid "No"
+msgstr "否"
+
+#: Tigger.c:934
+msgid "Are you sure you want to delete "
+msgstr "你确定你要删除"
+
+#: Tigger.c:935
+msgid " ?"
+msgstr " ？"
+
+#: Tigger.c:936
+msgid "Are you sure you want to delete the selected files?"
+msgstr "您确定要删除所选文件吗？"
+
+#: Tigger.c:937
+msgid ""
+"Cannot perform operation.\n"
+"Please select entries from the table to cut."
+msgstr ""
+"无法执行操作。\n"
+"请从表格中选择要剪切的条目。"
+
+#: Tigger.c:938
+msgid "Please select a single file or folder from the table and then select Rename."
+msgstr "请从表格中选择一个文件或文件夹，然后选择“重命名”。"
+
+#: Tigger.c:939
+msgid "Please enter new name : "
+msgstr "请输入新名称："
+
+#: Tigger.c:940
+msgid "Error"
+msgstr "错误"
+
+#: Tigger.c:941
+msgid "New name contains illegal character(s)."
+msgstr "新名称包含非法字符。"
+
+#: Tigger.c:942
+msgid ""
+"Cannot perform Rename. \n"
+"Updating view ..."
+msgstr ""
+"无法执行重命名。 \n"
+"更新视图..."
+
+#: Tigger.c:943
+msgid "Upload has reached the maximum folder limit."
+msgstr "上载已达到最大文件夹限制。"
+
+#: Tigger.c:944
+msgid ""
+"Uploading failed.\n"
+"File/Folder might be present on remote.\n"
+" Refreshing view ..."
+msgstr ""
+"上传失败。\n"
+"文件/文件夹可能位于远程计算机上。\n"
+" 刷新视图..."
+
+#: Tigger.c:945
+msgid "Cannot complete operation."
+msgstr "无法完成操作。"
+
+#: Tigger.c:946
+msgid "Do you want to replace "
+msgstr "你想要更换吗"
+
+#: Tigger.c:947
+msgid ""
+" ?\n"
+"This operation cannot be undone."
+msgstr ""
+" ？\n"
+"此操作无法撤消。"
+
+#: Tigger.c:948
+msgid "Replace file?"
+msgstr "替换文件？"
+
+#: Tigger.c:949
+msgid "Cannot drop to a file."
+msgstr "无法删除到文件。"
+
+#: Tigger.c:950
+msgid "Cannot drop to same folder."
+msgstr "无法放置到同一文件夹。"
+
+#: Tigger.c:951
+msgid ""
+"Cannot fetch information\n"
+"Please perform File->Refresh or Check SSL Connection."
+msgstr "
+"无法获取信息\n"
+"请执行文件->刷新或检查SSL连接。"
+
+#: Tigger.c:952
+msgid "Cannot fetch information for "
+msgstr "无法获取有关的信息"
+
+#: Tigger.c:953
+msgid ""
+".\n"
+"Please perform File->Refresh or Check SSL Connection."
+msgstr ""
+"。\n"
+"请执行文件->刷新或检查SSL连接。"
+
+#: Tigger.c:954
+msgid "Maximum file/folder limit for display has been reached."
+msgstr "已达到显示文件/文件夹的最大限制。"
+
+#: Tigger.c:955
+msgid ""
+"Some characters may not appear correctly as proper encoding charset (UTF-8) was not detected.\n"
+"Please upgrade your Java version."
+msgstr ""
+"由于未检测到正确的编码字符集（UTF-8），某些字符可能无法正确显示。\ n"
+"请升级您的Java版本。"

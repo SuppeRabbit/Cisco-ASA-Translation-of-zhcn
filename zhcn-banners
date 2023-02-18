@@ -1,0 +1,24 @@
+# Copyright (C) 2007 by Cisco Systems, Inc
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ASA\n"
+"POT-Creation-Date: 2020-03-23 4:40 CST\n"
+"PO-Revision-Date: 2020-03-23 4:40 CST\n"
+"Last-Translator: Jeffery Jin <jeffery.jin@it-beyond.com>\n"
+"Language-Team: Jeffery jin <jeffery.jin@it-beyond.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# this is the template for translation of the messages specified
+# in the following CLI commands:
+#     (config-webvpn)# keepout <...>
+#     (config-group-policy)# banner value <...>
+# Uncomment the following lines and put the original text and translations
+# there (add as many translations there as you need).
+#msgid "Put the exact English text for the keepout command, i.e. <...>"
+#msgstr "Put the translation here"
+#
+#msgid "Put the exact English text for the banner command, i.e. <...>"
+#msgstr "Put the translation here"

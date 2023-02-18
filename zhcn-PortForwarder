@@ -1,0 +1,171 @@
+# Copyright (C) 2006,2007 by Cisco Systems, Inc
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ASA\n"
+"POT-Creation-Date: 2020-03-23 4:40 CST\n"
+"PO-Revision-Date: 2020-03-23 4:40 CST\n"
+"Last-Translator: Jeffery Jin <jeffery.jin@it-beyond.com>\n"
+"Language-Team: Jeffery jin <jeffery.jin@it-beyond.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Nixie.c:336
+msgid "Continue"
+msgstr "继续"
+
+#: Nixie.c:337
+msgid "Cancel"
+msgstr "取消"
+
+#: Nixie.c:338
+msgid "Proxy Authentication Required"
+msgstr "需要代理身份验证"
+
+#: Nixie.c:339
+msgid "Username:"
+msgstr "用户名："
+
+#: Nixie.c:340
+msgid "Password:"
+msgstr "密码："
+
+#: Nixie.c:341
+#, java-format
+msgid "Proxy: {0}"
+msgstr "代理：{0}"
+
+#: Lycanthrope.c:119
+msgid "Unable to provide the ({0}) service."
+msgstr "无法提供({0})服务。"
+
+#: Lycanthrope.c:128
+msgid "This service is only available on Windows Internet Explorer."
+msgstr "该服务仅在Windows Internet Explorer上可用。"
+
+#: Lycanthrope.c:134
+msgid ""
+"The configuration of this service is incorrect. Please notify your network "
+"administrator."
+msgstr ""
+"此服务的配置不正确。请通知您的网络"
+"管理员。"
+
+#: Lycanthrope.c:164
+#, java-format
+msgid "The local port ({0}) is already used on this workstation."
+msgstr "本地端口({0})已在此工作站上使用。"
+
+#: Ovinnik.c:176
+msgid "INVALID NAME"
+msgstr "无效名称"
+
+#: Ovinnik.c:180
+msgid "INVALID ADDRESS"
+msgstr "无效地址"
+
+#: Ovinnik.c:192
+#: Leprechaun.c:140
+msgid "MSIE ONLY"
+msgstr "仅MSIE"
+
+#: Leprechaun.c:124
+msgid "UNAVAILABLE"
+msgstr "无法使用"
+
+#: Leprechaun.c:309
+msgid "Session Terminated"
+msgstr "会话终止"
+
+#: Leprechaun.c:385
+msgid "Please wait for the applet to load..."
+msgstr "请等待小程序加载..."
+
+#: Leprechaun.c:396
+msgid "Name"
+msgstr "姓名"
+
+#: Leprechaun.c:397
+msgid "Local"
+msgstr "本地"
+
+#: Leprechaun.c:398
+msgid "Remote"
+msgstr "远端"
+
+#: Leprechaun.c:399
+msgid "Bytes Out"
+msgstr ""
+
+#: Leprechaun.c:400
+msgid "Bytes In"
+msgstr "字节输入"
+
+#: Leprechaun.c:401
+msgid "Sockets"
+msgstr "套接字"
+
+#: Leprechaun.c:418
+#, java-format
+msgid ""
+"<html>An old version of the WebVPN DLL was found.<br>Please close your "
+"browser and delete the following file:<br><i>{0}</i><br>"
+msgstr ""
+"<html>找到了旧版本的WebVPN DLL。<br>请关闭您的"
+"浏览器并删除以下文件：<br><i>{0}</i><br>"
+
+#: Leprechaun.c:427
+msgid "<html>Auto configured proxies are not supported."
+msgstr "<html>不支持自动配置的代理。"
+
+#: Leprechaun.c:436
+msgid ""
+"<html>Java (J2RE 1.4+) Plug-in <b>Required</b><br>to run this program."
+"<br>Version: ({0}) found."
+msgstr ""
+"<html> Java（J2RE 1.4+）插件<b>必需</ b><br>以运行该程序。"
+"找到<br>版本：({0})。"
+
+#: Leprechaun.c:445
+msgid "Restore from backup"
+msgstr ""
+
+#: Leprechaun.c:446
+msgid "Delete backup"
+msgstr "从备份还原"
+
+#: Leprechaun.c:447
+msgid "Do nothing"
+msgstr "没做什么"
+
+#: Leprechaun.c:448
+msgid "Backup HOSTS file found!"
+msgstr "找到备份的HOSTS文件！"
+
+#: Leprechaun.c:449
+msgid ""
+"This program must not be run more than once simultaneously on the\n"
+"same machine. If you know you are not already running this program,\n"
+"click [{0}] or [{1}]."
+msgstr ""
+"此程序不得在\n上同时运行一次以上"
+"同一台机器。如果您知道您尚未运行此程序，\n"
+"单击[{0}]或[{1}]。"
+
+#: Leprechaun.c:488
+msgid "<html>Please close this program."
+msgstr "<html>请关闭该程序。"
+
+#: Leprechaun.c:670
+msgid "Reset Byte Counters"
+msgstr "重置字节计数器"
+
+#: Leprechaun.c:710
+msgid "Initialization complete. Applications ready to use."
+msgstr "初始化完成。 准备使用的应用程序。"
+
+#: Leprechaun.c:1501
+msgid "Configuration"
+msgstr "配置文件"

@@ -1,0 +1,211 @@
+# Copyright (C) 2006,2007 by Cisco Systems, Inc.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ASA\n"
+"POT-Creation-Date: 2020-03-23 4:40 CST\n"
+"PO-Revision-Date: 2020-03-23 4:40 CST\n"
+"Last-Translator: Jeffery Jin <jeffery.jin@it-beyond.com>\n"
+"Language-Team: Jeffery jin <jeffery.jin@it-beyond.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Template:688 Template:757 Template:788 DfltCustomization:42 DfltCustomization:111
+msgid "SSL VPN Service"
+msgstr "SSL VPN 服务"
+
+#: Template:696 DfltCustomization:17
+msgid "Language:"
+msgstr "语言"
+
+#: Template:715 Template:727 DfltCustomization:58 DfltCustomization:69
+msgid "Login"
+msgstr "登陆"
+
+#: Template:718 DfltCustomization:59
+msgid "Please enter your username and password."
+msgstr "请输入您的用户名和密码。"
+
+#: Template:719 DfltCustomization:60
+msgid "USERNAME:"
+msgstr "用户名："
+
+#: Template:720 DfltCustomization:62
+msgid "2nd Username"
+msgstr "第二用户名"
+
+#: Template:721 DfltCustomization:61
+msgid "PASSWORD:"
+msgstr "密码："
+
+#: Template:722 DfltCustomization:63
+msgid "2nd Password"
+msgstr "第二用户密码"
+
+#: Template:723 DfltCustomization:64
+msgid "Passcode"
+msgstr "密码"
+
+#: Template:724 DfltCustomization:65
+msgid "2nd Passcode"
+msgstr "第二用户密码"
+
+#: Template:725 DfltCustomization:66
+msgid "Internal Password:"
+msgstr "内部密码"
+
+#: Template:726 DfltCustomization:68
+msgid "GROUP:"
+msgstr "分组："
+
+#: Template:735 Template:840 DfltCustomization:77 DfltCustomization:123
+msgid "Logout"
+msgstr "登出"
+
+#: Template:744
+msgid "Goodbye.<br>\n"
+"\n"
+"For your own security, please:<br>\n"
+"\n"
+"<li>Clear the browser's cache\n"
+"\n"
+"<li>Delete any downloaded files\n"
+"\n"
+"<li>Close the browser's window"
+msgstr "再见。<br>\n"
+"\n"
+"为了您的安全，请:<br>\n"
+"\n"
+"<li>清楚浏览器缓存。\n"
+"\n"
+"<li>删除所有下载文件。\n"
+"\n"
+"<li>关闭浏览器窗口。"
+
+#: Template:745 DfltCustomization:83
+msgid "Logon"
+msgstr "登入"
+
+#: Template:758 Template:789 DfltCustomization:41 DfltCustomization:110
+msgid "/+CSCOU+/csco_logo.gif"
+msgstr "/+CSCOU+/csco_logo.gif"
+
+#: Template:776 DfltCustomization:52
+msgid "/+CSCOU+/clear.gif"
+msgstr "/+CSCOU+/clear.gif"
+
+#: Template:800 Template:802
+msgid "\n"
+"         "
+msgstr "\n"
+"         "
+#: Template:804
+msgid "Browse Entire Network"
+msgstr ""
+
+#: Template:805
+msgid "Start AnyConnect"
+msgstr "浏览整个网络"
+
+#: Template:809 DfltCustomization:142
+msgid "Home"
+msgstr "首页"
+
+#: Template:815 DfltCustomization:148
+msgid "Web Applications"
+msgstr "Web应用程序"
+
+#: Template:816
+msgid "Web Bookmarks"
+msgstr "Web书签"
+
+#: Template:822 DfltCustomization:154
+msgid "Browse Networks"
+msgstr "浏览网络"
+
+#: Template:823
+msgid "File Folder Bookmarks"
+msgstr "文件夹书签"
+
+#: Template:829 DfltCustomization:166
+msgid "Application Access"
+msgstr "应用程序访问"
+
+#: Template:835 DfltCustomization:160
+msgid "AnyConnect"
+msgstr "AnyConnect"
+
+#: Template:841 DfltCustomization:121
+msgid "Address"
+msgstr "地址"
+
+#: Template:842 DfltCustomization:122
+msgid "Browse"
+msgstr "浏览"
+
+#: DfltCustomization:8
+msgid "博创未来SSLVPN服务"
+msgstr ""
+
+#: DfltCustomization:20
+msgid "简体中文(zh-cn)"
+msgstr "简体中文(zh-cn)"
+
+#: DfltCustomization:24
+msgid "English"
+msgstr "英语"
+
+#: DfltCustomization:28
+msgid "日本 (Japanese)"
+msgstr "日本 (Japanese)"
+
+#: DfltCustomization:32
+msgid "Fran?ais (French)"
+msgstr "Fran?ais (French)"
+
+#: DfltCustomization:36
+msgid "Русский (Russian)"
+msgstr "Русский (Russian)"
+
+#: DfltCustomization:82
+msgid "Goodbye.<br>\n"
+"For your own security, please:<br>\n"
+"<li>Clear the browser's cache\n"
+"<li>Delete any downloaded files\n"
+"<li>Close the browser's window"
+msgstr "再见。<br>\n"
+"为了您的安全，请:<br>\n"
+"<li>清楚浏览器缓存\n"
+"<li>删除所有下载文件\n"
+"<li>关闭浏览器窗口"
+
+#: DfltCustomization:133
+msgid "http://10.0.8.4:8888"
+msgstr ""
+
+#: DfltCustomization:172
+msgid "SSH/Telnet"
+msgstr "SSH/Telnet"
+
+#: DfltCustomization:178
+msgid "MetaFrame Access"
+msgstr "MetaFrame访问"
+
+#: DfltCustomization:184
+msgid "Plugin to post with preloaded page"
+msgstr "插件以预载页面发布"
+
+#: DfltCustomization:190
+msgid "Terminal Services(RDP)"
+msgstr "终端服务（RDP）"
+
+#: DfltCustomization:196
+msgid "Terminal Services(For Vista)"
+msgstr "终端服务（适用于Vista）"
+
+#: DfltCustomization:202
+msgid "VNC"
+msgstr "VNC"
+
